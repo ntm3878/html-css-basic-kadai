@@ -66,8 +66,7 @@ a:hover {
   p {
     font-size: 25px;
   }
-  .parent {
-    display: flex;
-    flex-wrap: wrap;
+  #parent {
+    display: inline-block;
   }
 }
